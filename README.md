@@ -4,6 +4,9 @@ This hackathon is conducted by AI For Mankind. The goal is to come up with ideas
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
+To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)
+Last day to register is Jan 16, 2020.
+
 By participating in this hackathon, participants agree to be bound by all of the terms and conditions as set out below.
 
 #### Eligibility
