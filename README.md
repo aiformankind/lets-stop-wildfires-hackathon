@@ -5,7 +5,11 @@ This hackathon is conducted by AI For Mankind. The goal is to come up with ideas
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
 To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)
+
 Last day to register is Jan 16, 2020.
+
+#### Contact Us
+Email us [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com) if you have any questions and join us on Slack at https://tinyurl.com/y6pvbwee
 
 By participating in this hackathon, participants agree to be bound by all of the terms and conditions as set out below.
 
@@ -51,3 +55,11 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
 
+#### Quick Start
+Checkout the following resources to get you started
+
+[Datasets](https://github.com/aiformankind/wildfire-smoke-dataset)
+
+[Wildfire Smoke Classifier](https://github.com/aiformankind/wildfire-smoke-classifier-camera)
+
+[Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
