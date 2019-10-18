@@ -4,7 +4,7 @@ This hackathon is conducted by AI For Mankind. The goal is to come up with ideas
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
-To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)
+**To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
 
 Last day to register is Jan 16, 2020.
 
@@ -58,8 +58,11 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 #### Quick Start
 Checkout the following resources to get you started
 
-[Datasets](https://github.com/aiformankind/wildfire-smoke-dataset)
+1. HPWREN Camera [Datasets](https://github.com/aiformankind/wildfire-smoke-dataset)
 
-[Wildfire Smoke Classifier](https://github.com/aiformankind/wildfire-smoke-classifier-camera)
+2. Tensorflow based [Wildfire Smoke Classifier](https://github.com/aiformankind/wildfire-smoke-classifier-camera)
 
-[Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+3. Tensorflow based [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+
+#### Resources
+1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/yyo2b6qv)
