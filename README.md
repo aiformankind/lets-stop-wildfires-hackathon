@@ -66,3 +66,6 @@ Checkout the following resources to get you started
 
 #### Resources
 1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/yyo2b6qv)
+2. [Tensorflow Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
+3. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
+
