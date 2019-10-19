@@ -64,8 +64,10 @@ Checkout the following resources to get you started
 
 3. Tensorflow based [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
 
-#### Resources
+#### Wildfire Resources
 1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/yyo2b6qv)
-2. [Tensorflow Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
-3. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
+2. [Wildland Fire Assessment System](http://www.wfas.net/)
 
+#### Tensorflow Resources
+1. [Tensorflow Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
+2. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
