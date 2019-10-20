@@ -71,3 +71,4 @@ Checkout the following resources to get you started
 #### Tensorflow Resources
 1. [Tensorflow Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
 2. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
+3. [Install Tensorflow in PyCharm](https://youtu.be/vEXCMOuPB3c)
