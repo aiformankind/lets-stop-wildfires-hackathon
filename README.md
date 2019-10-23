@@ -1,5 +1,8 @@
 # Let's Stop Wildfires Hackathon
 
+![wildfire](images/wildfire.png)
+
+
 This hackathon is conducted by AI For Mankind. The goal is to come up with ideas to help solve California wildfires crisis and we believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. Everything built during the hackathon will remain as open source with The MIT license.
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
