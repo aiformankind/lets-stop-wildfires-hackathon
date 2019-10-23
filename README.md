@@ -54,6 +54,14 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 1. [The MIT License](https://opensource.org/licenses/MIT)
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
+#### Mentors for Hackathon
+1. [Anna Bethke](https://www.linkedin.com/in/annabethke/), Head of AI for Social Good for Intel
+2. [Jianming Zhang](https://www.linkedin.com/in/jianming-zhang-60762227/), Senior Research Scientist from Adobe Research
+3. [Jigar Doshi](https://www.linkedin.com/in/jigarkdoshi/), Machine Learning Lead from [CrowdAI](https://crowdai.com/)
+4. [Kinshuk Govil](https://www.linkedin.com/in/kinshuk-govil-0080522/), Lead for Machine Learning based early wildfire detection system with [FUEGO](https://fuego.ssl.berkeley.edu/what-is-fuego/)
+5. [Tim Ball](https://www.linkedin.com/in/tim-ball-1832a824/), President of [Fireball International](http://www.fireballit.com/)
+
+
 
 #### Quick Start
 Checkout the following resources to get you started
