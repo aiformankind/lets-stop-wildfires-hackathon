@@ -3,7 +3,7 @@
 ![wildfire](images/wildfire.png)
 
 
-This hackathon is conducted by AI For Mankind. The goal is to come up with ideas to help solve California wildfires crisis and we believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. Everything built during the hackathon will remain as open source with The MIT license.
+This hackathon is conducted by AI For Mankind. The goal is to come up with ideas to help solve California wildfires crisis and we believe that open sharing and collaboration are important in accelerating innovation and driving meaningful change locally and globally. Public and private partnerships coupled with citizen participation can help win the fight against wildfires. Everything built during the hackathon will remain as open source with The MIT license. Special thanks to [FUEGO] group (https://fuego.ssl.berkeley.edu/what-is-fuego/) to provide guidances to make this hackathon possible.
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
@@ -76,6 +76,8 @@ Checkout the following resources to get you started
 2. Tensorflow based [Wildfire Smoke Classifier](https://github.com/aiformankind/wildfire-smoke-classifier-camera)
 
 3. Tensorflow based [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+
+4. [FUEGO firecam repo](https://github.com/fuego-dev/firecam)
 
 #### Wildfire Resources
 1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/yyo2b6qv)
