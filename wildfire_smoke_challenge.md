@@ -6,6 +6,7 @@ We launched this Wildfire Smoke Detection Challenge in conjunction of the **Letâ
 You can download the train dataset here. It consists of multiple subfolders. Each subfolder contains the image sequences captured by a HPWREN camera when a fire broke out. Since the goal is to early detect the wildfire, these sequences consist of images ~40 mins before and after the ignition of fire. The images are time ordered.  Open the provided label_meta.csv to find out the first image in the sequence that has the first appearance of smoke.
 
 [train dataset](https://tinyurl.com/yy3evlfx)
+
 [label_meta.csv](https://tinyurl.com/y2g2o2jk)
 
 #### Submission
