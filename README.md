@@ -59,6 +59,9 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 1. [The MIT License](https://opensource.org/licenses/MIT)
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
+#### Wildfire Smoke Detection Challenge
+We launched this Wildfire Smoke Detection Challenge in conjunction of the **Let’s Stop Wildfires Hackathon**. You can use your solution as the entry to the Let's Stop Wildfire Hackathon. Learn more about the [Challenge](wildfire_smoke_challenge.md) 
+
 #### Mentors for Hackathon
 1. [Anna Bethke](https://www.linkedin.com/in/annabethke/), Head of AI for Social Good for Intel
 2. [Jianming Zhang](https://www.linkedin.com/in/jianming-zhang-60762227/), Senior Research Scientist from Adobe Research
