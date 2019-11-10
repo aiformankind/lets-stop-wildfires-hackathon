@@ -94,3 +94,4 @@ Checkout the following resources to get you started
 1. [Tensorflow Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
 2. [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 3. [Install Tensorflow in PyCharm](https://youtu.be/vEXCMOuPB3c)
+4. [What is transfer learning? Exploring the popular deep learning approach](https://builtin.com/data-science/transfer-learning) 
