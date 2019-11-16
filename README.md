@@ -68,6 +68,7 @@ We launched this Wildfire Smoke Detection Challenge in conjunction of the **Letâ
 3. [Jigar Doshi](https://www.linkedin.com/in/jigarkdoshi/), Machine Learning Lead from [CrowdAI](https://crowdai.com/)
 4. [Kinshuk Govil](https://www.linkedin.com/in/kinshuk-govil-0080522/), Lead for Machine Learning based early wildfire detection system with [FUEGO](https://fuego.ssl.berkeley.edu/what-is-fuego/)
 5. [Tim Ball](https://www.linkedin.com/in/tim-ball-1832a824/), President of [Fireball International](http://www.fireballit.com/)
+6. [Vladimir Iglovikov](https://www.linkedin.com/in/iglovikov/) Kaggle Grandmaster, Senior Computer Vision Engineer at Level5, Self-Driving Division, Lyft Inc.
 
 
 
