@@ -1,4 +1,4 @@
-# Wildfire Smoke Early Detection Challenge
+# Wildfire Smoke Early Detection Challenge II
 
 We launched this Wildfire Smoke Detection Challenge in conjunction of the **Let’s Stop Wildfires Hackathon**. In this challenge, you task is to build an early wildfire smoke detector. We provide the following HPWREN camera image sequences as training dataset. You can use your solution as the entry to the Let's Stop Wildfire Hackathon. The same hackathon rules apply to this challenge. See [rules](README.md)
 
