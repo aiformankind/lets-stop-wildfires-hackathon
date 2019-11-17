@@ -60,7 +60,9 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
 #### Wildfire Smoke Detection Challenge
-We launched this Wildfire Smoke Detection Challenge in conjunction of the **Let’s Stop Wildfires Hackathon**. You can use your solution as the entry to the Let's Stop Wildfire Hackathon. Learn more about the [Challenge](wildfire_smoke_challenge.md) 
+We launched these Wildfire Smoke Detection Challenge I and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
+You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
+Learn more about the [Challenge I](wildfire_smoke_challenge_1.md) and [Challenge II](wildfire_smoke_challenge.md)
 
 #### Mentors for Hackathon
 1. [Anna Bethke](https://www.linkedin.com/in/annabethke/), Head of AI for Social Good for Intel
