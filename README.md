@@ -65,12 +65,13 @@ You can use your solution as the entry to the Let's Stop Wildfire Hackathon.
 Learn more about the [Challenge I](wildfire_smoke_challenge_1.md) and [Challenge II](wildfire_smoke_challenge.md)
 
 #### Mentors for Hackathon
-1. [Anna Bethke](https://www.linkedin.com/in/annabethke/), Head of AI for Social Good for Intel
-2. [Jianming Zhang](https://www.linkedin.com/in/jianming-zhang-60762227/), Senior Research Scientist from Adobe Research
-3. [Jigar Doshi](https://www.linkedin.com/in/jigarkdoshi/), Machine Learning Lead from [CrowdAI](https://crowdai.com/)
-4. [Kinshuk Govil](https://www.linkedin.com/in/kinshuk-govil-0080522/), Lead for Machine Learning based early wildfire detection system with [FUEGO](https://fuego.ssl.berkeley.edu/what-is-fuego/)
-5. [Tim Ball](https://www.linkedin.com/in/tim-ball-1832a824/), President of [Fireball International](http://www.fireballit.com/)
-6. [Vladimir Iglovikov](https://www.linkedin.com/in/iglovikov/) Kaggle Grandmaster, Senior Computer Vision Engineer at Level5, Self-Driving Division, Lyft Inc.
+1. [Adam Kraft](https://www.linkedin.com/in/adam-kraft-7555b534/) Machine Learning Engineer from Google Brain
+2. [Anna Bethke](https://www.linkedin.com/in/annabethke/), Head of AI for Social Good for Intel
+3. [Jianming Zhang](https://www.linkedin.com/in/jianming-zhang-60762227/), Senior Research Scientist from Adobe Research
+4. [Jigar Doshi](https://www.linkedin.com/in/jigarkdoshi/), Machine Learning Lead from [CrowdAI](https://crowdai.com/)
+5. [Kinshuk Govil](https://www.linkedin.com/in/kinshuk-govil-0080522/), Lead for Machine Learning based early wildfire detection system with [FUEGO](https://fuego.ssl.berkeley.edu/what-is-fuego/)
+6. [Tim Ball](https://www.linkedin.com/in/tim-ball-1832a824/), President of [Fireball International](http://www.fireballit.com/)
+7. [Vladimir Iglovikov](https://www.linkedin.com/in/iglovikov/) Kaggle Grandmaster, Senior Computer Vision Engineer at Level5, Self-Driving Division, Lyft Inc.
 
 
 
