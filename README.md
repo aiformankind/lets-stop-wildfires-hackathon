@@ -100,3 +100,6 @@ Checkout the following resources to get you started
 3. [Install Tensorflow in PyCharm](https://youtu.be/vEXCMOuPB3c)
 4. [What is transfer learning? Exploring the popular deep learning approach](https://builtin.com/data-science/transfer-learning) 
 5. [Transfer learning in TensorFlow 2 tutorial](https://adventuresinmachinelearning.com/transfer-learning-tensorflow-2/)
+
+#### Events
+1. [RSVP to join upcoming Let's Stop Wildfires Onsite Hackathon on Saturday, Jan 11, 2020 at Insight Data Science, San Francisco](https://www.meetup.com/AI-for-Mankind/events/266419523/)
