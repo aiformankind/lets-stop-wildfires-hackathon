@@ -16,11 +16,14 @@ This reference folder allows you to loop through image sequences and examine the
 
 Note: If you want to use temporal sequence to detect smoke, please join [Challenge 2](wildfire_smoke_challenge.md).
 
-You can find the train dataset via either the Google drive link or Dropbox link.
-[Google Drive: train dataset](https://tinyurl.com/roo8tas)
+You can find the train dataset from either the Google drive link or Dropbox link.
+
+* [Google Drive: train dataset](https://tinyurl.com/roo8tas)
+
 or
-[Dropbox: train dataset](https://www.dropbox.com/s/17lkrcw5mpddyx5/wildfire_smoke_data.tar)
-[Dropbox: reference sequence dataset](https://www.dropbox.com/s/791wed3scimh6sq/sequence_reference.tar.gz)
+
+* [Dropbox: train dataset](https://www.dropbox.com/s/17lkrcw5mpddyx5/wildfire_smoke_data.tar)
+* [Dropbox: reference sequence dataset](https://www.dropbox.com/s/791wed3scimh6sq/sequence_reference.tar.gz)
 
 
 #### Submission
