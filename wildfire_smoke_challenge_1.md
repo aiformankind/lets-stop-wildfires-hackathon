@@ -22,7 +22,7 @@ You can find the train dataset from either the Google drive link or Dropbox link
 
 or
 
-* [Dropbox: train dataset](https://www.dropbox.com/s/17lkrcw5mpddyx5/wildfire_smoke_data.tar)
+* [Dropbox: train dataset](https://www.dropbox.com/s/ghfhjtoh1z59xeb/wildfire_smoke_data.tar)
 * [Dropbox: reference sequence dataset](https://www.dropbox.com/s/791wed3scimh6sq/sequence_reference.tar.gz)
 
 
