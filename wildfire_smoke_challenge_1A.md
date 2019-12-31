@@ -14,7 +14,7 @@ The accompanying reference folder contains multiple subfolders where
 each subfolder contains image sequences captured with a HPWREN camera.
 This reference folder allows you to loop through image sequences and examine the progression of smoke. However, you cannot use the reference folder in training. 
 
-Note: If you want to use temporal sequence to detect smoke, please join [Challenge 2](wildfire_smoke_challenge.md).
+Note: If you want to use temporal sequence to detect start of smoke ignition, please join [Challenge 2](wildfire_smoke_challenge_2.md).
 
 You can find the train dataset from either the Google drive link or Dropbox link.
 
