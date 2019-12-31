@@ -80,11 +80,13 @@ Checkout the following resources to get you started
 
 1. HPWREN Camera [Datasets](https://github.com/aiformankind/wildfire-smoke-dataset)
 
-2. Tensorflow based [Wildfire Smoke Classifier](https://github.com/aiformankind/wildfire-smoke-classifier-camera)
+2. [Google Colaboratory to develop deep learning application on free GPU](https://colab.research.google.com)
 
-3. Tensorflow based [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+3. Tensorflow based [Wildfire Smoke Classifier](https://github.com/aiformankind/wildfire-smoke-classifier-camera)
 
-4. [FUEGO firecam repo](https://github.com/fuego-dev/firecam)
+4. Tensorflow based [Wildfire Smoke Detector](https://github.com/aiformankind/wildfire-smoke-detection-camera)
+
+5. [FUEGO firecam repo](https://github.com/fuego-dev/firecam)
 
 #### Wildfire Resources
 1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/yyo2b6qv)
