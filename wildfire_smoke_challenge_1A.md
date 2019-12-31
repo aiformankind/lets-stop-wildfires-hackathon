@@ -1,6 +1,6 @@
-# Wildfire Smoke Early Detection Challenge I
+# Challenge IA: Smoke vs No Smoke using Entire Image
 
-In this challenge, your task is to build a wildfire smoke classifier. 
+In this challenge, your task is to build a wildfire smoke classifier using the full image. 
 We provide the following HPWREN camera smoke vs no smoke images as training dataset. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
 The same hackathon rules apply to this challenge. See [rules](README.md)
@@ -42,4 +42,4 @@ image_name_b,0
 ```
 
 #### Contact Us
-Please feel free to reach out to us if you have any questions. Join AI For Mankind **Slack** [https://tinyurl.com/y6pvbwee](https://tinyurl.com/y6pvbwee) channel to ask question.
+Please feel free to reach out to us if you have any questions. Join AI For Mankind **Slack** [https://tinyurl.com/rrsflyv](https://tinyurl.com/rrsflyv) channel to ask question.

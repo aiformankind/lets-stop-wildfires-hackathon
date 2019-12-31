@@ -60,9 +60,13 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
 #### Wildfire Smoke Detection Challenge
-We launched these Wildfire Smoke Detection Challenge I and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
+We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
-Learn more about the [Challenge I](wildfire_smoke_challenge_1.md) and [Challenge II](wildfire_smoke_challenge.md)
+
+Learn more about
+- [Challenge IA: Smoke vs No Smoke using entire image](wildfire_smoke_challenge_1A.md)
+- [Challenge IB: Smoke vs No Smoke using gridded image](wildfire_smoke_challenge_1B.md)
+- [Challenge II: Start of Smoke Ignition](wildfire_smoke_challenge_2.md)
 
 #### Mentors for Hackathon
 1. [Adam Kraft](https://www.linkedin.com/in/adam-kraft-7555b534/) Machine Learning Engineer from Google Brain
