@@ -98,6 +98,7 @@ Checkout the following resources to get you started
 3. [The United States Fourth National Climate Assessment Volume II](https://nca2018.globalchange.gov/downloads/NCA4_Report-in-Brief.pdf)
 4. [How Wildfire Works](https://science.howstuffworks.com/nature/natural-disasters/wildfire.htm/printable)
 5. [Fighting Wildfires](https://mentalfloss.com/article/57094/10-strategies-fighting-wildfires)
+6. [Wildland Fire: What is Hazard Fuel Reduction?](https://www.nps.gov/articles/what-is-hazard-fuel-reduction.htm)
 
 
 #### Tensorflow Resources
