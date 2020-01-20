@@ -30,7 +30,7 @@ The hackathon starts on Oct 16, 2019 at 5PM PT and ends on Feb 23, 2020 at 11:59
 Note: Hackathon end dates are at the sole discretion of AI For Mankind and may be subject to change.
 
 #### Requirements
-1. Teams must be comprised of 1-5 people.
+1. Teams must be comprised of 1-8 people.
 
 2. You have to create a public github repository for your entry with the MIT License.
 
