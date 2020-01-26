@@ -59,11 +59,11 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 1. [The MIT License](https://opensource.org/licenses/MIT)
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
-#### Wildfire Smoke Detection Challenge
-We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
+#### [Wildfire Smoke Detection Challenge](wildfire_smoke_challenge.md)
+We launched these [Wildfire Smoke Detection Challenge](wildfire_smoke_challenge.md) IA, IB and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
 
-Learn more about
+Learn more about [Wildfire Smoke Detection Challenge](wildfire_smoke_challenge.md)
 - [Challenge IA: Smoke vs No Smoke using entire image](wildfire_smoke_challenge_1A.md)
 - [Challenge IB: Smoke vs No Smoke using gridded image](wildfire_smoke_challenge_1B.md)
 - [Challenge II: Start of Smoke Ignition](wildfire_smoke_challenge_2.md)
