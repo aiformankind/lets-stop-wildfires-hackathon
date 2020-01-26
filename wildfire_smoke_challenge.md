@@ -55,7 +55,7 @@ Email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com)
 
 #### Join us on Slack  
 
-You can join our Slack channel to collaborate and ask questions. [https://tinyurl.com/rrsflyv](https://tinyurl.com/rrsflyv)
+You can join our Slack channel to collaborate and ask questions. [https://tinyurl.com/vepdjpf](https://tinyurl.com/vepdjpf)
 
 By participating in this hackathon, participants agree to be bound by all of the terms and conditions as set out in the hackathon [rules](README.md)
 
