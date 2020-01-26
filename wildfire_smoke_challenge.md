@@ -1,6 +1,8 @@
 #### Wildfire Smoke Detection Challenge
-We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
+We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **[Let’s Stop Wildfires Hackathon](https://github.com/aiformankind/lets-stop-wildfires-hackathon)**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
+
+Note: You have to create a github repo with your solution as part of the submission.
 
 Learn more about the challenges. Note: You can find more about the train datasets in the following links.
 - [Challenge IA: Smoke vs No Smoke using entire image](wildfire_smoke_challenge_1A.md)
