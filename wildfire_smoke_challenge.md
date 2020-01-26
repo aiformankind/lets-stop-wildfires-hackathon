@@ -2,7 +2,7 @@
 We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
 
-Learn more about
+Learn more about the challenges. Note: You can find more about the train datasets in the following links.
 - [Challenge IA: Smoke vs No Smoke using entire image](wildfire_smoke_challenge_1A.md)
 - [Challenge IB: Smoke vs No Smoke using gridded image](wildfire_smoke_challenge_1B.md)
 - [Challenge II: Start of Smoke Ignition](wildfire_smoke_challenge_2.md)
@@ -21,11 +21,23 @@ Learn more about
 #### Quick Start
 Checkout the following resources to get you started
 
-1. HPWREN Camera [Datasets](https://github.com/aiformankind/wildfire-smoke-dataset)
+1. [Dataset: Smoke vs No Smoke Images from HPWREN Camera](https://www.dropbox.com/s/ghfhjtoh1z59xeb/wildfire_smoke_data.tar)
 
-2. [Google Colaboratory to develop deep learning application on free GPU](https://colab.research.google.com)
+    - This dataset is used in [Challenge IA: Smoke vs No Smoke using entire image](wildfire_smoke_challenge_1A.md)
 
-3. [Transfer learning with a pretrained ConvNet](https://www.tensorflow.org/tutorials/images/transfer_learning)
+2. [Dataset: Gridded Smoke vs No Smoke Images from HPWREN Camera](https://www.dropbox.com/s/5rue8c28iidvlvh/grid_smoke_version.tar)
+
+    - This dataset is used in [Challenge IB: Smoke vs No Smoke using gridded image](wildfire_smoke_challenge_1B.md)
+
+3. [Tensorflow Wildfire Smoke Detection Sample Notebook for Challenge 1B](Challenge_1B_WildfireSmokeImageClassifierForDemo.ipynb)
+
+4. [PyTorch Wildfire Smoke Detection Sample Notebook for Challenge 1B](Challenge_1B_WildfireSmokeImageClassifierForDemo_Pytorch.ipynb)  
+
+    - Thank you [Bleklov Dmitry](https://github.com/Bekovmi) for contributing this notebook.
+
+5. [Google Colaboratory to develop deep learning application on free GPU](https://colab.research.google.com)
+
+6. [Transfer learning with a pretrained ConvNet](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 #### Wildfire Resources
 1. [FUEGO Wildfire Detection Slides by Kinshuk Govil](https://tinyurl.com/rbrn4oq)
