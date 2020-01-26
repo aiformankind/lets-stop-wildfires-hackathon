@@ -16,7 +16,7 @@ If you have any questions, please feel free to
 
 Email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com) or
 
-Join us on **Slack** at [https://tinyurl.com/yemz2dgo](https://tinyurl.com/yemz2dgo)
+Join us on **Slack** at [https://tinyurl.com/vepdjpf](https://tinyurl.com/vepdjpf)
 
 By participating in this hackathon, participants agree to be bound by all of the terms and conditions as set out below.
 
