@@ -15,6 +15,14 @@ Image taken by HPWREN camera.
 Image taken by AlertWildfire camera.
 
 
+![Mountain with fog image from one of AlertWildfire camera](images/fog_1.png)   
+Mountain with fog image taken by AlertWildfire camera.
+
+
+![Mountain with fog image from one of AlertWildfire camera](images/fog_2.png)  
+Mountain with fog image taken by AlertWildfire camera.
+
+
 We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **[Let’s Stop Wildfires Hackathon](https://github.com/aiformankind/lets-stop-wildfires-hackathon)**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
 
