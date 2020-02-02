@@ -60,6 +60,14 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 2. [CC BY-SA 4.0 Licence](https://creativecommons.org/licenses/by/4.0/)
 
 #### [Wildfire Smoke Detection Challenge](wildfire_smoke_challenge.md)
+Do you know there are more than 250 cameras installed around mountaintop in California. These are the AlertWildfire camera system. Another camera system is called HPWREN cameras.
+
+- [AlertWildfire Cameras](http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a)
+
+- [HPWREN Cameras](http://hpwren.ucsd.edu/cameras/I/wc-e-mobo-c.html)
+
+Can you build a wildfire smoke detector for these cameras ? 
+
 We launched these [Wildfire Smoke Detection Challenge](wildfire_smoke_challenge.md) IA, IB and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
 
