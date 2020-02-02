@@ -68,6 +68,12 @@ Do you know there are more than 250 cameras installed around mountaintop in Cali
 
 Can you build a wildfire smoke detector for these cameras ? 
 
+![Image from one of HPWREN camera](images/mountain_top.png) Image taken by HPWREN camera.
+
+
+![Image from one of AlertWildfire camera](images/sunrise_view.png) Image taken by AlertWildfire camera.
+
+
 We launched these [Wildfire Smoke Detection Challenge](wildfire_smoke_challenge.md) IA, IB and II in conjunction of the **Let’s Stop Wildfires Hackathon**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
 
