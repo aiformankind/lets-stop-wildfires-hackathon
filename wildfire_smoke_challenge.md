@@ -1,4 +1,11 @@
 #### Wildfire Smoke Detection Challenge
+Do you know there are more than 250 cameras installed around mountaintop in California. These are the AlertWildfire camera system. Another camera system is called HPWREN cameras.
+
+http://www.alertwildfire.org/southeastbay/index.html?v=518dd6a
+http://hpwren.ucsd.edu/cameras/I/wc-e-mobo-c.html
+
+Can you build a wildfire smoke detector for these cameras ? 
+
 We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **[Let’s Stop Wildfires Hackathon](https://github.com/aiformankind/lets-stop-wildfires-hackathon)**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
 
