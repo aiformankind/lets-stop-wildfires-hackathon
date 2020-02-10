@@ -17,10 +17,14 @@ You can download the train dataset from below Dropbox link.
 
 
 #### Submission
-You will have to create a new github repo for your codes with the MIT License. See Hackathon rules for more infos. 
-For evaluation, we will run your program against a new test dataset.
+You will have to create a new github repo for your codes with the MIT License. To allow us to evaluate your model against our test dataset, you can either 
 
-You need to build a model that is capable to tell if there is smoke in a single image. For evaluation, your program will read in a folder consists of multiple images and predict whether there is smoke or no smoke in each image and write the output in a CSV file with the following format.
+1) Save your model in HDF5 format and share it in your repo. If the model size is over 100MB, please provide either Dropbox or Google Drive link to your model. We will load your model and evaluate it against our test dataset.
+
+or
+
+2) Provide a python program to read in a folder consists of multiple images and predict whether there is smoke or no smoke in each image and write the output in a CSV file with the following format.
+
 
 ##### Output File
 image_name, smoke_detected(1 if smoke detected or 0 if no smoke)
