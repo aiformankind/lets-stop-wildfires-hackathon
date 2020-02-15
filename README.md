@@ -9,7 +9,7 @@ This hackathon is conducted by AI For Mankind. The goal is to come up with ideas
 
 **To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
 
-Last day to register is Feb 15, 2020.
+Last day to register is Feb 19, 2020.
 
 #### Contact Us
 If you have any questions, please feel free to
