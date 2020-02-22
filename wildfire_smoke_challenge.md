@@ -25,8 +25,10 @@ Mountain with fog image taken by AlertWildfire camera.
 
 We launched these Wildfire Smoke Detection Challenge IA, IB and II in conjunction of the **[Let’s Stop Wildfires Hackathon](https://github.com/aiformankind/lets-stop-wildfires-hackathon)**. 
 You can use your solution as the entry to the Let's Stop Wildfire Hackathon. 
+**Submission deadline is Sunday, Feb 23, 2020 at 11:59PM PT.**
 
-Note: You have to create a github repo with your solution as part of the submission. Save your model in HDF5 format and share it in your repo. If the model size is over 100MB, please provide either Dropbox or Google Drive link to your model. We will load your model and evaluate it against our test dataset.
+#### How to Submit Your Solution 
+**You have to create a github repo with your solution as part of the submission. Save your model in HDF5 format and share it in your repo. If the model size is over 100MB, please provide either Dropbox or Google Drive link to your model. We will load your model and evaluate it against our test dataset.**
 
 Learn more about the challenges and how to submit your solution. Note: You can find more about the train datasets in the following links.
 - [Challenge IA: Smoke vs No Smoke using entire image](wildfire_smoke_challenge_1A.md)
