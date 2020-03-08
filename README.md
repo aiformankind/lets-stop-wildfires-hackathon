@@ -7,6 +7,37 @@ This hackathon is conducted by AI For Mankind. The goal is to come up with ideas
 
 **Note: If you wish to keep your idea/project private, please do not enter this hackathon.**
 
+This hackathon has ended. Thank you for your participation. Stay tuned for the reboot of the hackathon coming soon.
+
+#### Here Are The Final Submissions:
+
+Here are the final submission projects. Thank you everyone for your participation and support ! Great work indeed ! Stay tuned for more upcoming updates.
+
+https://github.com/tsofoon/wildfire
+- Chak Foon Matthew TSO
+- Kaniska Mandal
+- Vicki, Man Ling Wong
+
+https://github.com/RaymondDashWu/ai4crowdsourcing-wildfire-hackathon
+- Jennifer Ma
+- Raymond Wu
+- Hong Tran
+
+https://github.com/WIVIV/Project_3_AFI
+- Ash Ranu
+- Zach Steindam
+- Jeneia Mullins
+
+https://github.com/amitdoda1983/lets-stop-wildfires-hackathon
+- Amit Doda
+
+https://github.com/pravrc/wildfireDetection
+- Praveen E
+
+https://github.com/junjunjd/wildfire_smoke_detection
+- JunJun Dong
+
+
 **To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
 
 Last day to register is Feb 19, 2020.
@@ -140,30 +171,3 @@ Checkout the following resources to get you started
 #### Events
 1. [RSVP to join upcoming Let's Stop Wildfires Onsite Hackathon on Saturday, Jan 11, 2020 at Insight Data Science, San Francisco](https://www.meetup.com/AI-for-Mankind/events/266419523/)
 
-#### Final Submissions:
-
-Here are the final submission projects. Thank you everyone for your participation and support ! Great work indeed ! Stay tuned for more upcoming updates.
-
-https://github.com/tsofoon/wildfire
-- Chak Foon Matthew TSO
-- Kaniska Mandal
-- Vicki, Man Ling Wong
-
-https://github.com/RaymondDashWu/ai4crowdsourcing-wildfire-hackathon
-- Jennifer Ma
-- Raymond Wu
-- Hong Tran
-
-https://github.com/WIVIV/Project_3_AFI
-- Ash Ranu
-- Zach Steindam
-- Jeneia Mullins
-
-https://github.com/amitdoda1983/lets-stop-wildfires-hackathon
-- Amit Doda
-
-https://github.com/pravrc/wildfireDetection
-- Praveen E
-
-https://github.com/junjunjd/wildfire_smoke_detection
-- JunJun Dong
