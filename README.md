@@ -37,6 +37,9 @@ https://github.com/pravrc/wildfireDetection
 https://github.com/junjunjd/wildfire_smoke_detection
 - JunJun Dong
 
+![Participants](discuss2.jpg)
+
+![Presentation](presentation1.jpg)
 
 **To participate in the hackathon: Register [here](https://forms.gle/Rtedxr1rT9HHJogm6)**
 
